@@ -1,0 +1,1 @@
+he gpt iam learning html,css, with some basic knowledge i have built my assignment website , where they told me to build a development conference page i have done mine but there is a part where my instructor told me to use ai and build that section with prompting. So, as a pro or a web developer, can you make me a section related to this
