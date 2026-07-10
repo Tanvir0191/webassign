@@ -276,6 +276,20 @@ main {
 
 
 }
+.cart ul{
+    list-style: disc;
+    padding-left: 20px;
+}
+
+.cart2 ul{
+    list-style: disc;
+    padding-left: 20px;
+}
+
+.cart3 ul{
+    list-style: disc;
+    padding-left: 20px;
+}
 
 /* ai */
 .why-attend{
